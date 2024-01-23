@@ -2,11 +2,11 @@
 Author Mark Bauer
 
 ### Table of Contents
-* [New York City Panel on Climate Change (NPCC)](#New-York-City-Panel-on-Climate-Change-(NPCC))
+* [New York City Panel on Climate Change (NPCC)](#New-York-City-Panel-on-Climate-Change-NPCC)
 * [PlaNYC Reports](#PlaNYC-Reports)
 * [NYC Special Initiative for Rebuilding and Resiliency](#NYC-Special-Initiative-for-Rebuilding-and-Resiliency)
 * [Flood Insurance](#Flood-Insurance)
-* [New York City's Hazard Mitigation Plans](#New-York-City's-Hazard-Mitigation-Plans)
+* [New York City's Hazard Mitigation Plans](#New-York-Citys-Hazard-Mitigation-Plans)
 * [Additional Reports](#Additional-Reports)
 
 ### New York City Panel on Climate Change (NPCC)
