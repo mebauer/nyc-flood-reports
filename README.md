@@ -19,10 +19,12 @@
 - [PlaNYC Progress Report - 2014](https://climate.cityofnewyork.us/wp-content/uploads/2022/10/140422_PlaNYCP-Report_FINAL_Web.pdf)
 - [PlaNYC: Getting Sustainability Done](https://climate.cityofnewyork.us/wp-content/uploads/2023/06/PlaNYC-2023-Full-Report.pdf)
 
-NYC FIRM Maps
+### NYC FIRM Maps
+
 - [Appeal of FEMA’s Preliminary Flood Insurance Rate Maps for New York City ](https://climate.cityofnewyork.us/wp-content/uploads/2022/10/1-NYC-FEMA-Appeal-FINAL-with-Appendices-and-Cover-Letter-06252015_web.pdf)
 - [The Cost and Affordability of Flood Insurance in New York City](https://climate.cityofnewyork.us/wp-content/uploads/2022/10/Flood-Insurance-Cost-and-Affordability.pdf)
 
+### Additional
 
 - [OneNYC 2050](https://climate.cityofnewyork.us/wp-content/uploads/2022/10/OneNYC-2050-Summary.pdf)
 - [NYC Stormwater Resiliency Plan (2021)](https://climate.cityofnewyork.us/wp-content/uploads/2022/10/stormwater-resiliency-plan.pdf)
