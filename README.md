@@ -3,10 +3,10 @@
 ### Table of Contents
 * [New York City Panel on Climate Change (NPCC)](#New-York-City-Panel-on-Climate-Change-NPCC)
 * [Google Scholar](#Google-Scholar)
-* [PlaNYC Reports](#PlaNYC-Reports)
 * [NYC Special Initiative for Rebuilding and Resiliency](#NYC-Special-Initiative-for-Rebuilding-and-Resiliency)
-* [Flood Insurance](#Flood-Insurance)
+* [PlaNYC Reports](#PlaNYC-Reports)
 * [New York City's Hazard Mitigation Plans](#New-York-Citys-Hazard-Mitigation-Plans)
+* [Flood Insurance](#Flood-Insurance)
 * [Additional Reports](#Additional-Reports)
 
 ### New York City Panel on Climate Change (NPCC)
@@ -19,9 +19,23 @@ Website: [New York City Panel on Climate Change (NPCC)](https://climate.cityofne
 - [Climate Risk Information (New York City Panel on Climate Change 2009 Report)](https://climate.cityofnewyork.us/wp-content/uploads/2022/10/nyc_climate_change_report.pdf)
 
 ### Google Scholar
-Sample Search: [Google Scholar - flooding new york city](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C33&q=flooding+new+york+city&btnG=)
-- [Low‐probability flood risk modeling for New York City (2013)](https://onlinelibrary.wiley.com/doi/full/10.1111/risa.12008?casa_token=lbzywJUbH5kAAAAA%3AQ1dg9XC__AsX7zPgqUuKnvIMLSiICouXB4wVydRThU84knfFyvSu0ujk67r0l7fz9I9Ypeoai8Hq8Q)
 
+Sample Search: [Google Scholar - flooding new york city](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C33&q=flooding+new+york+city&btnG=)  
+
+A few of my favorite papers:
+- [Evaluating Flood Resilience Strategies for Coastal Megacities (2014)](https://texmex.mit.edu/pub/emanuel/PAPERS/Aerts_etal_2012.pdf)
+- [Cost Estimates for Flood Resilience and Protection Strategies in New York City (2013)](https://research.vu.nl/ws/portalfiles/portal/795488/revised+nyas+v12200+i1+RevCrx3+reduced.pdf)
+- [Low‐probability flood risk modeling for New York City (2013)](https://texmex.mit.edu/pub/emanuel/PAPERS/Aerts_etal_2013.pdf)
+- [Managing Exposure to flooding in New York City (NYC) (2012)](https://www.nature.com/articles/nclimate1487)
+- [Brief communication" Hurricane Irene: a wake-up call for New York City?" (2012)](https://nhess.copernicus.org/articles/12/1837/2012/nhess-12-1837-2012.pdf)
+- [Physically-based Assessment of Hurricane Surge Threat under Climate Change (2012)](https://dspace.mit.edu/bitstream/handle/1721.1/75773/kerry%20paper%204.pdf?sequence=1&isAllowed=y)
+- [Flood-resilient waterfront development in New York City: bridging flood insurance, building codes, and flood zoning (2011)](https://research.vu.nl/ws/portalfiles/portal/3167392/NYC+Aerts+Botzen+2011.pdf)
+- [Risk assessment of hurricane storm surge for New York City (2010)](https://agupubs.onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2009JD013630)
+
+### NYC Special Initiative for Rebuilding and Resiliency
+
+Website: [Special Initiative for Rebuilding and Resiliency (SIRR)](https://www.nyc.gov/site/sirr/index.page)
+- [A Stronger, More Resilient New York (2013)](https://s-media.nyc.gov/agencies/sirr/SIRR_singles_Hi_res.pdf)
 
 ### PlaNYC and OneNYC Reports
 
@@ -31,17 +45,6 @@ Sample Search: [Google Scholar - flooding new york city](https://scholar.google.
 - [PlaNYC Full Report - 2011](https://climate.cityofnewyork.us/wp-content/uploads/2023/12/planyc_2011_planyc_full_report.pdf)
 - [PlaNYC Full Report - 2007](https://climate.cityofnewyork.us/wp-content/uploads/2022/10/PlaNYC-full_report_2007.pdf)
 
-### NYC Special Initiative for Rebuilding and Resiliency
-
-Website: [Special Initiative for Rebuilding and Resiliency (SIRR)](https://www.nyc.gov/site/sirr/index.page)
-- [A Stronger, More Resilient New York (2013)](https://s-media.nyc.gov/agencies/sirr/SIRR_singles_Hi_res.pdf)
-
-### Flood Insurance
-
-- [The Cost and Affordability of Flood Insurance in New York City (2017)](https://climate.cityofnewyork.us/wp-content/uploads/2022/10/Flood-Insurance-Cost-and-Affordability.pdf)
-- [Appeal of FEMA’s Preliminary Flood Insurance Rate Maps for New York City (2015)](https://climate.cityofnewyork.us/wp-content/uploads/2022/10/1-NYC-FEMA-Appeal-FINAL-with-Appendices-and-Cover-Letter-06252015_web.pdf)
-- [Flood Insurance in New York City Following Hurricane Sandy (2013)](https://www.rand.org/content/dam/rand/pubs/research_reports/RR300/RR328/RAND_RR328.pdf)
-
 ### New York City's Hazard Mitigation Plans
 
 Website: [Hazard Mitigation](https://www.nyc.gov/site/em/ready/hazard-mitigation.page)
@@ -49,6 +52,11 @@ Website: [Hazard Mitigation](https://www.nyc.gov/site/em/ready/hazard-mitigation
 - [New York City Hazard Mitigation Plan (2014)](https://www.nyc.gov/assets/em/downloads/pdf/hazard_mitigation/plan_update_2014/final_nyc_hmp.pdf)
 - [Natural Hazard Mitigation Plan (2009)](https://www.nyc.gov/assets/em/downloads/pdf/hazard_mitigation/full_hmp_march_2009.pdf)
 
+### Flood Insurance
+
+- [The Cost and Affordability of Flood Insurance in New York City (2017)](https://climate.cityofnewyork.us/wp-content/uploads/2022/10/Flood-Insurance-Cost-and-Affordability.pdf)
+- [Appeal of FEMA’s Preliminary Flood Insurance Rate Maps for New York City (2015)](https://climate.cityofnewyork.us/wp-content/uploads/2022/10/1-NYC-FEMA-Appeal-FINAL-with-Appendices-and-Cover-Letter-06252015_web.pdf)
+- [Flood Insurance in New York City Following Hurricane Sandy (2013)](https://www.rand.org/content/dam/rand/pubs/research_reports/RR300/RR328/RAND_RR328.pdf)
 
 ### Additional Reports
 
