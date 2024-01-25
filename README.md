@@ -3,7 +3,7 @@
 ### Table of Contents
 * [New York City Panel on Climate Change (NPCC)](#New-York-City-Panel-on-Climate-Change-NPCC)
 * [Academic Research](#Academic-Research)
-* [NYC Special Initiative for Rebuilding and Resiliency & Hurricane Sandy](#NYC-Special-Initiative-for-Rebuilding-and-Resiliency-&-Hurricane-Sandy)
+* [NYC Special Initiative for Rebuilding and Resiliency & Hurricane Sandy](#NYC-Special-Initiative-for-Rebuilding-and-Resiliency-Hurricane-Sandy)
 * [Stormwater and Parks Resiliiency Plans](#Stormwater-and-Parks-Resiliiency-Plans)
 * [Flood Insurance](#Flood-Insurance)
 * [Department of City Planning](#Department-of-City-Planning)
@@ -15,7 +15,7 @@
 
 ### New York City Panel on Climate Change (NPCC)
 
-Website: [New York City Panel on Climate Change (NPCC)](https://climate.cityofnewyork.us/initiatives/nyc-panel-on-climate-change-npcc/)
+[New York City Panel on Climate Change (NPCC)](https://climate.cityofnewyork.us/initiatives/nyc-panel-on-climate-change-npcc/)
 - [Special Issue: Advancing Tools and Methods for Flexible Adaptation Pathways and Science Policy Integration (New York City Panel on Climate Change 2019 Report)](https://www.nyas.org/annals/special-issue-advancing-tools-and-methods-for-flexible-adaptation-pathways-and-science-policy-integration-new-york-city-panel-on-climate-change-2019-report-vol-1439/)
 - [Building the Knowledge Base for Climate Resiliency (New York City Panel on Climate Change 2015 Report)](https://nyaspubs.onlinelibrary.wiley.com/toc/17496632/2015/1336/1)
 - [Climate Risk Information 2013: Observations, Climate Change Projections, and Maps (New York City Panel on Climate Change 2013 Report)](https://climate.cityofnewyork.us/wp-content/uploads/2022/10/npcc_climate_risk_information_2013_report.pdf)
@@ -24,7 +24,7 @@ Website: [New York City Panel on Climate Change (NPCC)](https://climate.cityofne
 
 ### Academic Research
 
-Sample Search on Google Scholar: [flooding new york city](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C33&q=flooding+new+york+city&btnG=)  
+[Sample Search on Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C33&q=flooding+new+york+city&btnG=)  
 
 A few of my favorite papers:
 - [Evaluating Flood Resilience Strategies for Coastal Megacities (2014)](https://texmex.mit.edu/pub/emanuel/PAPERS/Aerts_etal_2012.pdf)
@@ -38,7 +38,7 @@ A few of my favorite papers:
 
 ### NYC Special Initiative for Rebuilding and Resiliency & Hurricane Sandy
 
-Website: [Special Initiative for Rebuilding and Resiliency (SIRR)](https://www.nyc.gov/site/sirr/index.page)
+[Special Initiative for Rebuilding and Resiliency (SIRR)](https://www.nyc.gov/site/sirr/index.page)
 - [Hurricane Sandy Ten Years Later (2022)](https://www.nyc.gov/assets/sustainability/downloads/pdf/publications/Sandy-10-Years-Later.pdf)
 - [Hurricane Sandy Houses of Worship and Charitable Organizations Recovery Task Force (2017)](https://climate.cityofnewyork.us/wp-content/uploads/2022/10/Hurricane-Sandy-Recovery-Task-Force-Report-April-2017.pdf)
 - [A Stronger, More Resilient New York (2013)](https://s-media.nyc.gov/agencies/sirr/SIRR_singles_Hi_res.pdf)
@@ -68,7 +68,7 @@ Website: [Special Initiative for Rebuilding and Resiliency (SIRR)](https://www.n
 
 ### New York City's Hazard Mitigation Plans
 
-Website: [Hazard Mitigation](https://www.nyc.gov/site/em/ready/hazard-mitigation.page)
+[New York City Hazard Mitigation](https://www.nyc.gov/site/em/ready/hazard-mitigation.page)
 - [New York City's Risk Landscape: A Guide To Hazard Mitigation (2019)](https://www.nyc.gov/assets/em/downloads/pdf/hazard_mitigation/risklandscape2.0_2019_r2_digital_lowres.pdf)
 - [New York City Hazard Mitigation Plan (2014)](https://www.nyc.gov/assets/em/downloads/pdf/hazard_mitigation/plan_update_2014/final_nyc_hmp.pdf)
 - [Natural Hazard Mitigation Plan (2009)](https://www.nyc.gov/assets/em/downloads/pdf/hazard_mitigation/full_hmp_march_2009.pdf)
@@ -78,8 +78,8 @@ Website: [Hazard Mitigation](https://www.nyc.gov/site/em/ready/hazard-mitigation
 - [PlaNYC: Getting Sustainability Done (2023)](https://climate.cityofnewyork.us/wp-content/uploads/2023/06/PlaNYC-2023-Full-Report.pdf)
 - [OneNYC 2050 (2019)](https://climate.cityofnewyork.us/wp-content/uploads/2022/10/OneNYC-2050-Summary.pdf)
 - [One New York: The Plan for a Strong and Just City (2015)](https://www.nyc.gov/html/onenyc/downloads/pdf/publications/OneNYC.pdf)
-- [PlaNYC Full Report - 2011](https://climate.cityofnewyork.us/wp-content/uploads/2023/12/planyc_2011_planyc_full_report.pdf)
-- [PlaNYC Full Report - 2007](https://climate.cityofnewyork.us/wp-content/uploads/2022/10/PlaNYC-full_report_2007.pdf)
+- [PlaNYC Full Report (2011)](https://climate.cityofnewyork.us/wp-content/uploads/2023/12/planyc_2011_planyc_full_report.pdf)
+- [PlaNYC Full Report (2007)](https://climate.cityofnewyork.us/wp-content/uploads/2022/10/PlaNYC-full_report_2007.pdf)
 
 ### Lower Manhattan Climate Resilience Plan
 
