@@ -18,7 +18,7 @@ Website: [New York City Panel on Climate Change (NPCC)](https://climate.cityofne
 - [Special Issue: Advancing Tools and Methods for Flexible Adaptation Pathways and Science Policy Integration (New York City Panel on Climate Change 2019 Report)](https://www.nyas.org/annals/special-issue-advancing-tools-and-methods-for-flexible-adaptation-pathways-and-science-policy-integration-new-york-city-panel-on-climate-change-2019-report-vol-1439/)
 
 ### Google Scholar
-Website: [Google Scholar - flooding nyc](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C33&q=flooding+nyc&btnG=&oq=)
+Sample Search: [Google Scholar - flooding new york city](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C33&q=flooding+nyc&btnG=&oq=)
 - [Low‐probability flood risk modeling for New York City (2013)](https://onlinelibrary.wiley.com/doi/full/10.1111/risa.12008?casa_token=lbzywJUbH5kAAAAA%3AQ1dg9XC__AsX7zPgqUuKnvIMLSiICouXB4wVydRThU84knfFyvSu0ujk67r0l7fz9I9Ypeoai8Hq8Q)
 
 
