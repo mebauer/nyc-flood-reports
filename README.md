@@ -42,8 +42,6 @@ A few of my favorite papers:
 ### NYC Special Initiative for Rebuilding and Resiliency & Hurricane Sandy
 
 [Special Initiative for Rebuilding and Resiliency (SIRR)](https://www.nyc.gov/site/sirr/index.page)
-- [Hurricane Sandy Ten Years Later (2022)](https://www.nyc.gov/assets/sustainability/downloads/pdf/publications/Sandy-10-Years-Later.pdf)
-- [Hurricane Sandy Houses of Worship and Charitable Organizations Recovery Task Force (2017)](https://climate.cityofnewyork.us/wp-content/uploads/2022/10/Hurricane-Sandy-Recovery-Task-Force-Report-April-2017.pdf)
 - [A Stronger, More Resilient New York (2013)](https://s-media.nyc.gov/agencies/sirr/SIRR_singles_Hi_res.pdf)
 
 ### Stormwater and Parks Resiliiency Plans
