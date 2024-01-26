@@ -3,7 +3,7 @@
 ### Table of Contents
 * [New York City Panel on Climate Change (NPCC)](#New-York-City-Panel-on-Climate-Change-NPCC)
 * [Academic Research](#Academic-Research)
-* [NYC Special Initiative for Rebuilding and Resiliency & Hurricane Sandy](#NYC-Special-Initiative-for-Rebuilding-and-Resiliency-Hurricane-Sandy)
+* [NYC Special Initiative for Rebuilding and Resiliency & Hurricane Sandy](#NYC-Special-Initiative-for-Rebuilding-and-Resiliency-&-Hurricane-Sandy)
 * [Stormwater and Parks Resiliiency Plans](#Stormwater-and-Parks-Resiliiency-Plans)
 * [Flood Insurance](#Flood-Insurance)
 * [Department of City Planning](#Department-of-City-Planning)
