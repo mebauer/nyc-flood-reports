@@ -2,7 +2,7 @@
 
 ### Table of Contents
 * [New York City Panel on Climate Change (NPCC)](#New-York-City-Panel-on-Climate-Change-NPCC)
-* [Academic Research](#Academic-Research)
+* [Scholarly Publications](#Scholarly-Publications)
 * [NYC Special Initiative for Rebuilding and Resiliency & Hurricane Sandy](#NYC-Special-Initiative-for-Rebuilding-and-Resiliency--Hurricane-Sandy)
 * [Stormwater and Parks Resiliiency Plans](#Stormwater-and-Parks-Resiliiency-Plans)
 * [Flood Insurance](#Flood-Insurance)
@@ -14,7 +14,7 @@
 
 ### Introduction
 
-This project serves as a comprehensive compilation of reports and publications focused on flood risk analysis, planning, and management within New York City. The curated list encompasses contributions from various city agencies, alongside scholarly publications such as those from the New York City Panel on Climate Change (NPCC). Among the notable recommendations, a particularly insightful read is a report from the NPCC, with Chapter 4 of the 2019 Report specifically delving into Coastal Flooding. I really enjoyed this chapter and highly recommended it, as it offers valuable insights into the city's coastal flood vulnerability.
+This project serves as a comprehensive compilation of reports and publications focused on flood risk analysis, planning, and management within New York City. The curated list encompasses contributions from various city agencies, alongside scholarly publications such as those from the New York City Panel on Climate Change (NPCC). Among the notable recommendations, a particularly insightful read is the NPCC's 2019 Report, with Chapter 4 specifically delving into Coastal Flooding. Personally, I found this chapter to be exceptionally insightful and highly recommend it, as it's also authored by some of my heroes in the field.
 
 ### New York City Panel on Climate Change (NPCC)
 
@@ -25,7 +25,7 @@ This project serves as a comprehensive compilation of reports and publications f
 - [Climate Change Adaptation in New York City: Building a Risk Management Response (New York City Panel on Climate Change 2010 Report)](https://nyaspubs.onlinelibrary.wiley.com/toc/17496632/2010/1196/1)
 - [Climate Risk Information (New York City Panel on Climate Change 2009 Report)](https://climate.cityofnewyork.us/wp-content/uploads/2022/10/nyc_climate_change_report.pdf)
 
-### Academic Research
+### Scholarly Publications
 
 [Sample Search on Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C33&q=flooding+new+york+city&btnG=)  
 
