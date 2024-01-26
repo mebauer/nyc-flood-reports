@@ -11,7 +11,10 @@
 * [PlaNYC and OneNYC Reports](#PlaNYC-and-OneNYC-Reports)
 * [Lower Manhattan Climate Resilience Plan](#Lower-Manhattan-Climate-Resilience-Plan)
 * [Additional Reports](#Additional-Reports)
-* [Say Hello!](#Say-Hello)
+
+### Introduction
+
+This project serves as a comprehensive compilation of reports and publications focused on flood risk analysis, planning, and management within New York City. The curated list encompasses contributions from various city agencies, alongside scholarly publications such as those from the New York City Panel on Climate Change (NPCC). Among the notable recommendations, a particularly insightful read is a report from the NPCC, with Chapter 4 of the 2019 Report specifically delving into Coastal Flooding. I really enjoyed this chapter and highly recommended it, as it offers valuable insights into the city's coastal flood vulnerability.
 
 ### New York City Panel on Climate Change (NPCC)
 
