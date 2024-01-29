@@ -30,6 +30,7 @@ This project serves as a comprehensive compilation of reports and publications f
 [Sample Search on Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C33&q=flooding+new+york+city&btnG=)  
 
 A few of my favorite papers:
+- [Hurricane Sandy’s flood frequency increasing from year 1800 to 2100](https://www.pnas.org/doi/full/10.1073/pnas.1604386113)
 - [Evaluating Flood Resilience Strategies for Coastal Megacities (2014)](https://texmex.mit.edu/pub/emanuel/PAPERS/Aerts_etal_2012.pdf)
 - [Cost Estimates for Flood Resilience and Protection Strategies in New York City (2013)](https://research.vu.nl/ws/portalfiles/portal/795488/revised+nyas+v12200+i1+RevCrx3+reduced.pdf)
 - [Low‐probability flood risk modeling for New York City (2013)](https://texmex.mit.edu/pub/emanuel/PAPERS/Aerts_etal_2013.pdf)
