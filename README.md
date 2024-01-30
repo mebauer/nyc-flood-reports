@@ -31,6 +31,7 @@ This project serves as a comprehensive compilation of reports and publications f
 
 A few of my favorite papers:
 - [Hurricane Sandy’s flood frequency increasing from year 1800 to 2100 (2016)](https://www.pnas.org/doi/full/10.1073/pnas.1604386113)
+- [Increased threat of tropical cyclones and coastal flooding to New York City during the anthropogenic era (2015)](https://www.pnas.org/doi/full/10.1073/pnas.1513127112)
 - [Evaluating Flood Resilience Strategies for Coastal Megacities (2014)](https://texmex.mit.edu/pub/emanuel/PAPERS/Aerts_etal_2012.pdf)
 - [Cost Estimates for Flood Resilience and Protection Strategies in New York City (2013)](https://research.vu.nl/ws/portalfiles/portal/795488/revised+nyas+v12200+i1+RevCrx3+reduced.pdf)
 - [Low‐probability flood risk modeling for New York City (2013)](https://texmex.mit.edu/pub/emanuel/PAPERS/Aerts_etal_2013.pdf)
