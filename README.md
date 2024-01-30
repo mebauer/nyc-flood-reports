@@ -66,6 +66,7 @@ A few of my favorite papers:
 - [Resilient Industry: Mitigation and Preparedness in the City's Industrial Floodplain (2018)](https://www.nyc.gov/assets/planning/download/pdf/plans-studies/resilient-industry/resilient-industry-full-report.pdf)
 - [Zoning for Resiliency Community Outreach Summary (2018)](https://www.nyc.gov/assets/planning/download/pdf/plans-studies/climate-resiliency/outreach-summary.pdf)
 - [Retrofitting Buildings for Flood Risk (2014)](https://www.nyc.gov/assets/planning/download/pdf/plans-studies/retrofitting-buildings/retrofitting_complete.pdf)
+- [Urban Watefront Adaptive Strategies (2013)](https://www.nyc.gov/assets/planning/download/pdf/plans-studies/sustainable-communities/climate-resilience/urban_waterfront.pdf)
 - [Designing for Flood Risk (2013)](https://www.nyc.gov/assets/planning/download/pdf/plans-studies/sustainable-communities/climate-resilience/designing_flood_risk.pdf)
 - [Vision 2020: Comprehensive Waterfront Plan (2011)](https://www.nyc.gov/assets/planning/download/pdf/plans-studies/vision-2020-cwp/vision2020/vision2020_nyc_cwp.pdf)
 
